@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TiketSaya</string>
+    <string name="desc_splash_act">Wisata Jadi Lebih Asyik!</string>
+    <string name="btn_login_primary">LOGIN</string>
+    <string name="btn_new_account">NEW ACCOUNT</string>
+    <string name="btn_continue">CONTINUE</string>
+    <string name="btn_explore">EXPLORE NOW</string>
+    <string name="btn_buy_ticket">BUY TICKET</string>
+
+    <string name="username_label">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="bio">Bio</string>
+</resources>
